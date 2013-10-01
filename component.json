@@ -4,7 +4,9 @@
   "description": "Titleize strings",
   "version": "0.0.1",
   "keywords": [],
-  "dependencies": {},
+  "dependencies": {
+    "component/assert" : "*"
+  },
   "development": {},
   "license": "MIT",
   "main": "index.js",
